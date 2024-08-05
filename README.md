@@ -28,6 +28,7 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
 
 ## 🏗️ Ongoing Projects
 
+## 🛠️ Projects and Code
 
 ## 📚 Learning Journey
 
@@ -40,8 +41,13 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
   - Conducted ICT support platform management, marketing, data collection, report creation, and translation/interpretation tasks.
 - **GDSC_HUFS Team Member** (2022 - 2023)
   - Collaborated with team members on various projects and events related to Google technologies(Kotlin, tensorflow).
-   
-## 🛠️ Projects and Code
+
+## 🏎️ Interests and Hobbies
+
+I have a deep passion for automotive and autonomous driving technology, with a particular interest in vehicle dynamics models and F1 motorsports engineering. F1 motorsports presents a technical challenge of pushing vehicle performance to the limit, and I dedicate significant time to studying and researching precise modeling and simulation needed to optimize vehicle dynamics and maintain stability at high speeds.
+
+- **Vehicle Dynamics**: I focus on understanding the physical movement and interactions of vehicles through dynamic models, aiming to enhance the performance of autonomous driving systems.
+- **F1 Motorsports**: I study advanced technologies, aerodynamic design, tire performance, and strategic driving techniques in F1 vehicles, gaining insights to improve engineering in autonomous vehicles.
 
 
 ## 🌐 Contact
