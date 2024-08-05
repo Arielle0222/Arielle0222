@@ -43,7 +43,9 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
 ## 📚 Learning Journey
 
 - **SW/AI Major** at Hankuk University of Foreign Studies (Expected to graduate in February 2025)
-- **Online Courses**: Autonomous Driving (Elice Track, 1st period) (July 2024 - Present)
+- **Online Courses**: 
+  - **Autonomous Driving** [Elice Track, 1st period] (July 2024 - Present)
+  - **CAN Communication(Controller Area Network)** [Inflearn]
 
 ## 💼 Experience
 
