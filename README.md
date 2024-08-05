@@ -52,7 +52,7 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
 - **Digital Export Support Center Operation Project** at NIPA (June 24, 2022 - December 30, 2022)
   - Conducted ICT support platform management, marketing, data collection, report creation, and translation/interpretation tasks.
 - **GDSC_HUFS Team Member** (2022 - 2023)
-  - Collaborated with team members on various projects and events related to Google technologies(Kotlin, tensorflow).
+  - Collaborated with team members on various projects and events related to Google technologies(Kotlin, Tensorflow).
 
 ## 🏎️ Interests and Hobbies
 <div align="left">
