@@ -10,22 +10,31 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
 
 ## 🔧 Technology Stack
 
+### Programming Languages and Libraries
+
 <div align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
-    <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+    <img src="https://img.shields.io/badge/MATLAB/Simulink-0076A8?style=flat&logo=MATLAB&logoColor=white" />
+</div>
+
+### Development Tools
+
+<div align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-- **Python**: Used for data analysis, machine learning model development, and algorithm implementation
-- **Docker**: Containerization tool for maintaining consistent and isolated project environments
-- **Keras**: High-level deep learning API for designing and training neural network models
-- **OpenCV**: Library for image and video processing, implementing computer vision techniques
-- **ROS**: Robot Operating System for integrating sensor data and control in autonomous driving vehicles
-- **TensorFlow**: Powerful open-source platform for deep learning model development and training
+### Data Formats & Middleware
+
+<div align="left">
+    <img src="https://img.shields.io/badge/XML-FF8C00?style=flat&logo=XML&logoColor=white" />
+    <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
+</div>
 
 ## 🏗️ Ongoing Projects
 
