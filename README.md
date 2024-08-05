@@ -29,6 +29,7 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/Gazebo-1B1F3F?style=flat&logo=Gazebo&logoColor=white" />
+    <img src="https://img.shields.io/badge/RViz-9B1D20?style=flat&logo=RViz&logoColor=white" />
 </div>
 
 ### Data Formats & Middleware
@@ -37,6 +38,7 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
     <img src="https://img.shields.io/badge/XML-FF8C00?style=flat&logo=XML&logoColor=white" />
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
 </div>
+
 
 
 ## 🏗️ Ongoing Projects
