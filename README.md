@@ -17,6 +17,7 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
 - **Python**: Used for data analysis, machine learning model development, and algorithm implementation
@@ -43,6 +44,9 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
   - Collaborated with team members on various projects and events related to Google technologies(Kotlin, tensorflow).
 
 ## 🏎️ Interests and Hobbies
+<div align="left">
+    <img src="https://img.shields.io/badge/F1-E10600?style=flat&logo=F1&logoColor=white" />
+</div>
 
 I have a deep passion for automotive and autonomous driving technology, with a particular interest in vehicle dynamics models and F1 motorsports engineering. F1 motorsports presents a technical challenge of pushing vehicle performance to the limit, and I dedicate significant time to studying and researching precise modeling and simulation needed to optimize vehicle dynamics and maintain stability at high speeds.
 
@@ -51,6 +55,11 @@ I have a deep passion for automotive and autonomous driving technology, with a p
 
 
 ## 🌐 Contact
+<div align="left">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHubPages-222222?style=flat&logo=GitHubPages&logoColor=white" />
+</div>
 
 - **Email**: [seohee70428@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/seohee-kim-12ab1b316/]
