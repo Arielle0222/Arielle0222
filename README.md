@@ -1,4 +1,4 @@
-<img src="banners/LA_drive_final.gif" alt="Banner" width="100%" height="auto" style="max-height: 200px;" />
+<img src="banners/LA_drive_final_text.gif" alt="Banner" width="100%" height="auto" style="max-height: 200px;" />
 
 
 
