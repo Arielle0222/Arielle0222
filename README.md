@@ -48,7 +48,6 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
 
 ## 🏗️ Ongoing Projects
 - **Parking space detection using image processing and object recognition** (August 20, 2024 - September 9)
-## 🛠️ Projects and Code
 
 ## 📚 Learning Journey
 
