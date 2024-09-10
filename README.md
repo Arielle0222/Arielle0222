@@ -47,7 +47,8 @@ I am focusing on an **End-to-End Driving** approach to tackle the complex challe
 
 
 
-## 🏗️ Ongoing Projects
+## 🏗️ Projects
+- **GDSC HUFS Solution Challenge** (December 2022 - March 2023)
 - **Parking space detection using image processing and object recognition** (August 20, 2024 - September 9)
 
 ## 📚 Learning Journey
