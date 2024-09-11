@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="banners/LA_drive_final_text.gif" alt="Banner" style="max-height: 200px;" />
-</div>
-
+<img src="banners/LA_drive_final_text_1000.gif" alt="Banner" width="100%" />
 
 ## 😎 About Me
 
