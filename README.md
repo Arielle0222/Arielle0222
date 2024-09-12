@@ -8,7 +8,7 @@ Hello! I’m **SEOHEE KIM(ARIELLE)**, a student majoring in Software and Artific
 
 My goal is to contribute to a future where **software-driven automobiles offer seamless mobility and ensure free from accidents**. By designing and implementing advanced machine learning models for autonomous driving systems, I aim to create a future where everyone can move without worry. 
 
-I am focusing on an **End-to-End Driving** approach to tackle the complex challenges in autonomous driving technology. While I may not possess extraordinary talents, I am committed to taking on challenges without hesitation. I believe that courage and determination are key to driving innovation and achieving impactful results in the field of autonomous vehicles.
+I am focusing on an **Model-Driven** approach to tackle the complex challenges in autonomous driving technology. While I may not possess extraordinary talents, I am committed to taking on challenges without hesitation. I believe that courage and determination are key to driving innovation and achieving impactful results in the field of autonomous vehicles.
 
 ## 🔧 Technology Stack
 
