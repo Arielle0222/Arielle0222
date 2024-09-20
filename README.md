@@ -2,7 +2,7 @@
 
 ## 😎 About Me
 
-Hello! I’m **SEOHEE KIM(ARIELLE)**, a student majoring in Software and Artificial Intelligence (SW/AI) in Republic of Korea.🇰🇷 I am dedicated to becoming a **Autonomous Driving Engineer** specializing in **perception and environment modeling** solutions for autonomous vehicles. This GitHub page showcases my learning journey, ongoing projects, and the technology stack I am working with.
+Hello! I’m **SEOHEE KIM(ARIELLE)**, a student majoring in Software and Artificial Intelligence (SW/AI) in Republic of Korea.🇰🇷 I am dedicated to becoming a **Autonomous Driving Engineer** specializing in **perception and environment modeling** solutions for autonomous vehicles. This GitHub page showcases my learning journey, ongoing projects, and the technology stack I am working with.
 
 ## 🚀 Objective
 
