@@ -28,6 +28,7 @@ I am focusing on an **Model-Driven** approach to tackle the complex challenges i
 
 <div align="left">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AZURE-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
