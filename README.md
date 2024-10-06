@@ -39,7 +39,6 @@ I am focusing on an **Model-Driven** approach to tackle the complex challenges i
 ### Data Formats & Middleware
 
 <div align="left">
-    <img src="https://img.shields.io/badge/XML-FF8C00?style=flat&logo=XML&logoColor=white" />
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
 </div>
 
